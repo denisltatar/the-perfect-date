@@ -138,6 +138,7 @@ img {
 
 .mt-150 {
     margin-top: 150px;
+    padding-bottom: 100px;
 }
 
 .mr-15 {
@@ -444,10 +445,10 @@ p {
 }
 
 .welcome-thumb {
-    width: 45%;
+    width: 35%;
     position: absolute;
     bottom: -130px;
-    right: 85px;
+    right: 200px;
     z-index: 9;
 }
 
@@ -1223,7 +1224,7 @@ p {
 }
 
 .footer-text > p {
-    margin-bottom: 50px;
+    margin-bottom: 15px;
 }
 
 /* --------------------------
@@ -1302,4 +1303,8 @@ p {
 
 #header-text {
     padding-right: 50px;
+}
+
+#whats-tryst-text {
+    padding-top: 40px;
 }
