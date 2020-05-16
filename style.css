@@ -457,7 +457,7 @@ p {
 }
 
 .wellcome-heading > h2 {
-    font-size: 100px;
+    font-size: 80px;
     color: #ffffff;
     font-weight: 700;
     position: relative;
@@ -1298,4 +1298,8 @@ p {
 
 #banner-img {
     padding-bottom: 200px;
+}
+
+#header-text {
+    padding-right: 50px;
 }
